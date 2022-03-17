@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HalilhanSAYIN ;
-- 🏫 I'm student of MIS;
+- 🏫 I'm student of Management Information Systems[2/4];
 - 👀 I’m interested in [Mobile Apps && Blockchain] ;
 - 🌱 I’m currently learning Flutter ;
 
