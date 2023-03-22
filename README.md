@@ -1,5 +1,5 @@
 # 👨‍🎤  ***Halilhan SAYIN***
-
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 ## 🏫 *Mangement Information Systems (3/4)* 
 
