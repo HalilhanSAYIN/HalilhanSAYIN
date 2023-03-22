@@ -1,4 +1,10 @@
-👋 Hi, I’m @HalilhanSAYIN  ;
+# 👨‍🎤  ***Halilhan SAYIN***
+
+
+## 🏫 *Mangement Information Systems (3/4)* 
+
+## Flutter & Kotlin 
+
 
 
 
