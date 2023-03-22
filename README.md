@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HalilhanSAYIN ;
-
+👋 Hi, I’m @HalilhanSAYIN  ;
+[https://www.linkedin.com/in/halilhan-say%C4%B1n-577912229/]
 
 
 <!---
