@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/HalilhanSAYIN/HalilhanSAYIN/blob/main/o7.gif" width="426" height="420" />
+<img align="right" alt="GIF" src="https://github.com/HalilhanSAYIN/HalilhanSAYIN/blob/main/o7.gif" width="420" height="410" />
 
 
 #  👨‍🎤  ***Halilhan SAYIN***
@@ -18,6 +18,11 @@
 [gmail]: mailto:dev.halilhansayin@gmail.com
 
 <br />
+
+
+## *Hiçbir şeye ihtiyacımız yok, yalnız bir şeye ihtiyacımız vardır; çalışkan olmak!*
+
+
 
 
 <!---
