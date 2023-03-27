@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/HalilhanSAYIN/HalilhanSAYIN/blob/main/o7.gif" width="420" height="410" />
 
 
-#  👨‍🎤  ***Halilhan SAYIN***
+#  ***Halilhan SAYIN***
 
 ## 🏫 *Mangement Information Systems (3/4)* 
 ## 📱  *Mobile App Developer*
