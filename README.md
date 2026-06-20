@@ -3,9 +3,10 @@
 
 #  ***Halilhan SAYIN***
 
-## 🏫 *Mangement Information Systems 🎓* 
-## 📱  *Mobile App Developer* ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,kotlin,jetpackcompose,swift)
+## 🏫 *Software Developer* 
 ## 🖥️ *Web Developer* ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,js,ts,html,css,tailwindcss)
+## 📱 *Mobile App Developer* ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,kotlin,jetpackcompose,swift)
+
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />][linkedin][<img align="left" height="24" width="24" src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />][gmail]
 
